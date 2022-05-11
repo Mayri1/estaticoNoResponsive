@@ -1,0 +1,272 @@
+
+   
+
+body{
+    background-color: rgb(27, 27, 27);
+    border-left: 1px solid rgb(15, 15, 15);
+}
+a{
+    text-decoration: none;
+}
+
+  /*ACA EMPIEZA EL NAV */
+
+nav{
+  
+  width:100%;
+
+  top: -610px;
+  position: relative;
+  margin-top: 30px;
+  
+
+}
+hr{
+    margin-top: 0px;
+    border-color:rgb(49, 49, 49) ;
+    
+}
+.menu{ 
+    display:flex;
+    padding-left: 20px;
+    padding-right: 40px;
+    background-color: black; 
+    color:white; 
+    
+      
+}
+.menu>h1{
+    font-size: 50px;
+    font-weight: 1;
+    color:rgb(101, 102, 102)
+}
+.menu>h6{
+    color:rgb(101, 102, 102);
+    width:100px;
+    margin-top: 100px;
+    margin-left: -80px;
+   
+}
+.menu ul{ 
+    width:100%;
+    float: right;
+    text-align: right;
+   
+
+}
+.menu li>a{
+    color: white;
+    padding-top: 20px;
+}
+.menu li{
+   
+   display: inline-block;
+   margin-right:40px ;
+   margin-top: 50px;
+   color:rgb(101, 102, 102);
+}
+li>a:hover{
+    border-top: 1px solid yellow;
+   color:yellow;;
+}
+
+.menu li a{
+    display:block;
+    
+    
+}
+
+/* ACA EMPIEZA EL HEADER */
+
+header{
+   
+    position: relative;
+    top: 80px;
+    width:92%;
+    margin-top: 100px;
+    margin-left: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    background-color:rgb(202, 202, 202);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-align: center;
+    
+}
+img{
+    width:100%;
+    
+}
+
+
+/* ACA EMPUEZA EL MAIN*/
+
+main{
+    background-color:white;
+    margin-top: -50px;
+    border-top: 3px solid rgb(107, 106, 106);
+    
+}
+
+.subtituloUno{
+    margin-bottom: 0px;
+    padding:25px;
+    color:rgb(122, 122, 122);
+}
+article{
+    
+    width:60%;
+    padding-left: 15px;
+}
+
+.galery{
+    padding-top: 20px;
+    width: 250px;
+    float:left;
+    background-color:white;
+    color:rgb(122, 122, 122) ;
+   
+}
+
+.galery>img{
+    margin:5px;
+    height: 150px;
+    width: 200px;
+    padding: 5px;
+    border: solid 1px rgb(175, 174, 174);
+}
+
+.artDos{
+    background-color:white;
+    padding-top: 200px;
+    padding-bottom: 100px;
+   
+    
+}
+.subtituloDos{
+    margin-top: 200px;
+    padding:px;
+    color:rgb(122, 122, 122);
+}
+.galeryDos{
+    padding: 10px;
+    width: 100px;
+    background-color:white;
+    color:rgb(122, 122, 122) ;
+   
+   
+}
+
+.galeryDos>img{
+    padding: 5px;
+    margin:5px;
+    height: 150px;
+    width: 150px;
+    border: solid 1px rgb(175, 174, 174);
+    float: left;
+   
+    
+}
+.galeryParr{
+    
+    padding:5px;
+    height: 100px;
+    width: 600px;
+    float: left;
+}
+.galeryParrD{
+    width:auto;
+    text-align:end;
+    padding:25px;
+    border-bottom-style: dotted;
+}
+
+/* ACA EMPIEZA EL ASIDE */
+aside{
+    margin-top: -1200px;
+    background-color:white;
+    width:30%;
+    float:right;
+    margin-right: 20px;
+}
+.contPrimera{
+    margin-top: 25px;
+    border: 1px solid rgb(148, 148, 148);
+    text-align: center;
+}
+h3{
+    color:rgb(122, 122, 122);
+}
+.contPrimera>img{
+    width:300px;
+    height:200px;
+}
+.contSegunda>img{
+    width:180px;
+}
+
+/* ACA EMPIEZA EL FOOTER */
+
+footer{
+    padding-left: 20px;
+    margin-top: -200px;
+    margin-bottom: 50px;
+    background-color:black;
+    width:100%;
+    display: flex;
+    border-top: 4px solid rgb(105, 103, 103);
+  
+}
+.moda{
+    display: flex-block;
+    
+    
+
+}
+.moda>h3{
+    border-bottom-style: dotted;
+    width:500px;
+}
+.moda>p{
+
+    color:rgb(255, 255, 255) ;
+    width: 200px;
+    float: right;
+}
+.moda>img{
+    
+    width:200px;
+    padding:5px;
+    border: solid 1px rgb(175, 174, 174);
+   
+}
+.horoscopo{
+    margin-left: 30px;
+    width:420px;
+}
+.horoscopo>img{
+    width:125px;
+
+}
+.horoscopo>h3{
+    border-bottom-style: dotted;
+    width:400px;
+}
+.contacto{
+    margin-left: 30px;
+    padding-right: 40px;
+}
+.contacto>h3{
+    border-bottom-style: dotted;
+    width:350px;
+}
+.contacto>h4{
+    color: white;
+}
+
+
+
+
+
