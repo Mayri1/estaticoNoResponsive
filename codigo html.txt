@@ -12,7 +12,7 @@
     <!-- HEADER -->
       
     <header> 
-        <img src="images/1710520604-Marcas_De_Moda_Mujer.jpg" alt="Imagen de portada">
+        <img src="/images/1710520604-Marcas_De_Moda_Mujer.jpg" alt="Imagen de portada">
     </header>
   
     <!-- NAV -->
@@ -91,12 +91,12 @@
                   <img src="/images/imagesCAX2O64G.jpg" alt="">
              </div>
              <div class="contSegunda">
-                 <img src="images/images2.jpg" alt="">
-                 <img src="images/imagesCAD2PR1L.jpg" alt="">
-                 <img src="images/imagesCAW6YIGP.jpg" alt="">
-                 <img src="images/imagesCAMPD2K2.jpg" alt="">
-                 <img src="images/imagesCA8JLYA9.jpg" alt="">
-                 <img src="images/imagesCA1A7Z42.jpg" alt="">
+                 <img src="/images/images2.jpg" alt="">
+                 <img src="/images/imagesCAD2PR1L.jpg" alt="">
+                 <img src="/images/imagesCAW6YIGP.jpg" alt="">
+                 <img src="/images/imagesCAMPD2K2.jpg" alt="">
+                 <img src="/images/imagesCA8JLYA9.jpg" alt="">
+                 <img src="/images/imagesCA1A7Z42.jpg" alt="">
              </div>
        
          </aside>
@@ -115,12 +115,12 @@
       </div>
       <div class="horoscopo">
         <h3>Horoscopo</h3>
-        <img src="images/imagesCAG8QC8D.jpg" alt="">
-        <img src="images/imagesCAAZZCTY.jpg" alt="">
-        <img src="images/imagesCARNLD4S.jpg" alt="">
-        <img src="images/imagesCAT0OUSY.jpg" alt="">
-        <img src="images/imagesCA91HTV3.jpg" alt="">
-        <img src="images/imagesCA5AWBST.jpg" alt="">
+        <img src="/images/imagesCAG8QC8D.jpg" alt="">
+        <img src="/images/imagesCAAZZCTY.jpg" alt="">
+        <img src="/images/imagesCARNLD4S.jpg" alt="">
+        <img src="/images/imagesCAT0OUSY.jpg" alt="">
+        <img src="/images/imagesCA91HTV3.jpg" alt="">
+        <img src="/images/imagesCA5AWBST.jpg" alt="">
 
       </div>
       <div class="contacto">
